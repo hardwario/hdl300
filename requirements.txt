@@ -1,0 +1,4 @@
+click==7.1.2
+pymodbus==2.3.0
+pyserial==3.4
+six==1.15.0
